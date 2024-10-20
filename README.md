@@ -18,7 +18,7 @@ This project demonstrates a linear regression model using the California Housing
 Loading the California Housing dataset from `sklearn` using the `fetch_california_housing()` method.
 
 ### Data Preprocessing
-- Ran `shape`, `describe`, `info`, `isnull`, `dtypes`, `corr`, `nunique`, `memory_usage`, and `memory_usage(deep)` to get an overview of the dataset.
+- Run `shape`, `describe`, `info`, `isnull`, `dtypes`, `corr`, `nunique`, `memory_usage`, and `memory_usage(deep)` to get an overview of the dataset.
 - All rows have valid values, so no rows were dropped.
 - The correlation matrix showed that `MedInc` has the highest correlation (0.688) with the target variable `Price`, so `MedInc` was selected for regression.
 - Split the dataset into 75% training data and 25% test data using `train_test_split`.
