@@ -77,6 +77,6 @@ Loading the California Housing dataset from `sklearn` using the `fetch_californi
 In linear regression, combining features generally improves prediction accuracy more effectively than creating interaction features.
 
 ## License This project is licensed under the MIT License - see the LICENSE file for details.
-## © 2024 Ali M Shafiei. All rights
+## © 2024 Ali M Shafiei. All rights reserved.
 
  
