@@ -76,5 +76,6 @@ Loading the California Housing dataset from `sklearn` using the `fetch_californi
 ## Conclusion
 In linear regression, combining features generally improves prediction accuracy more effectively than creating interaction features.
 
+© 2024 [alimshafiei]. All rights reserved.
 
  
